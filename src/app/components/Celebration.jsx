@@ -116,7 +116,7 @@ export default function Celebration({ onNext }) {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 1.5 }}
             >
-                <p className="text-purple-300 text-base">Click to start the magic! ✨</p>
+                <p className="text-purple-300 text-base">Dbaa bhi de bhaaw kya khari ✨</p>
             </motion.div>
         </motion.div>
     )

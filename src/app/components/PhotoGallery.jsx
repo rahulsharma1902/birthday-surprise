@@ -86,7 +86,7 @@ export default function PhotoGallery({ onNext }) {
                     className="bg-gradient-to-r from-pink-600 via-purple-600 to-indigo-600 hover:from-pink-500 hover:via-purple-500 hover:to-indigo-500 text-white text-lg px-8 py-4 rounded-full shadow-xl border-2 border-white/70 transition-all duration-300 hover:scale-[103%]"
                 >
                     <motion.div className="flex items-center space-x-2" whileHover={{ x: 5 }}>
-                        <span>One Last Thing</span>
+                        <span>Aree sunnnnn....</span>
                         <ArrowRight className="w-5 h-5" />
                     </motion.div>
                 </button>

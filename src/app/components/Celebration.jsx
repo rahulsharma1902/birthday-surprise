@@ -75,7 +75,7 @@ export default function Celebration({ onNext }) {
                         filter: "drop-shadow(0 0 30px rgba(255,105,180,0.5))",
                     }}
                 >
-                    Time to Celebrate!
+                    Bas ho gaya intezaar...
                 </motion.h1>
 
                 <motion.p
@@ -84,7 +84,7 @@ export default function Celebration({ onNext }) {
                     animate={{ opacity: 1 }}
                     transition={{ delay: 0.8 }}
                 >
-                    The countdown is over... Let's celebrate! 🎉
+                    Ready ho jaa... surprises aur smiles dono aane wale hain 😘
                 </motion.p>
             </motion.div>
 
@@ -104,7 +104,7 @@ export default function Celebration({ onNext }) {
                 >
                     <motion.div className="flex items-center space-x-2" whileTap={{ scale: 0.95 }}>
                         <Gift className="w-5 h-5" />
-                        <span className="font-semibold">Let's Celebrate!</span>
+                        <span className="font-semibold">Chal ab khol hi le 😜!</span>
                         <Sparkles className="w-5 h-5" />
                     </motion.div>
                 </button>

@@ -180,7 +180,7 @@ Chal kutti, happy jnmdin to you 🎂✨
                                             className="inline-flex items-center gap-2 bg-white/60 text-pink-600 font-medium border border-pink-400 px-5 py-2 rounded-full hover:bg-pink-100 transition-all"
                                         >
                                             <RotateCcw className="w-4 h-4" />
-                                            Read Again
+                                            Firse pdle aggr mn kr raa...
                                         </button>
                                     </motion.div>
                                 )}

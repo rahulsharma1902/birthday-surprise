@@ -11,18 +11,20 @@ export default function Letter() {
     const [currentText, setCurrentText] = useState("")
     const [showCursor, setShowCursor] = useState(true)
 
-    const letterText = `My Dearest Madam Jii,
+    const letterText = `Oyy Kutti,
 
-On this very special day, I want you to know how incredibly grateful I am to have you in my life. Your birthday isn't just a celebration of another year - it's a celebration of all the joy, laughter, and beautiful memories you bring to this world.
-
-You have this amazing ability to light up any room you enter, to make people smile even on their darkest days, and to spread kindness wherever you go. Your heart is pure gold, and your spirit is absolutely infectious.
-
-Thank you for being the wonderful, amazing, absolutely fantastic person that you are. The world is so much brighter because you're in it.
-
-Happy Birthday, beautiful soul! 🎂✨
-
-With all my love and warmest wishes,
-Forever Yours 💕`
+5 saal ho gaye hume… aur abhi bhi ajeeb lagta hai soch ke ki hum kabhi real life mein mile hi nahi.
+Phir bhi tere bina din adhoora lagta hai.
+Mujhe ab bhi yaad hai jab hum pehli baar baat ki thi… aur us raat bas game khelte rahe bina time ka hisaab rakhe.
+Aur teri pehli tasveer… jo tune bheji thi… woh abhi tak meri yaadon mein waise hi basi hai.
+Kaash mai tere saamne hota, tujhe yeh sab aankhon mein dekh ke bol pata…
+Par shayad bol na paata, kyunki jo feeling tere liye hai na, woh shabd se zyada gehri hai.
+Har ek pal jo humne online share kiya, woh mere liye priceless hai.
+Ladai ho ya hasi-mazaak… sab yaad hai mujhe.
+Aur haan, maan lo main thoda ziddi hoon… tu baar baar samjhati hai aur main maanta nahi.
+Par dil se jaanta hoon… tu hi hai jo mujhe sabse zyada samajhti hai.
+Chal kutti, happy jnmdin to you 🎂✨
+`
 
     useEffect(() => {
         if (showText) {
